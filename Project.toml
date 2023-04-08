@@ -1,0 +1,4 @@
+name = "Trace"
+uuid = "9794338e-fff2-43b2-830a-eeff27c952b3"
+authors = ["Paul Frivold <paul@kefrobotics.com>"]
+version = "0.1.0"
